@@ -1,0 +1,29 @@
+h1 {
+	font-family: "Comic Sans MS",serif;
+	color:#f54242;
+	text-align:center;
+}
+p {
+	color: #45f542;
+	font-size: 150%;
+	text-align:center;
+	font-family: "Verdana";
+}
+header {
+	font-size: 150%;
+	color: #5742f5;
+	text-align:center;
+	font-family: "Times New Roman";
+}
+html {
+	background-color: #000000;
+}
+a {
+	color:#a83232;
+}
+span {
+	color:#a83232;
+	font-family: "Comic Sans MS", serif;
+	font-style: italic;
+	text-align:right;
+}
